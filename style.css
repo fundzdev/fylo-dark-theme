@@ -317,7 +317,9 @@ body {
     .header {
         display: flex;
         justify-content: space-between;
-        width: 80%;
+        width: 100%;
+        padding-left: 16px;
+        padding-right: 16px;
         margin: auto;
         padding-top: 60px;
         align-items: center;
